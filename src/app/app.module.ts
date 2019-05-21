@@ -7,7 +7,6 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
 import { ChangeTextDirective } from './change-text.directive';
 import { SqrtComponent } from './sqrt/sqrt.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,
